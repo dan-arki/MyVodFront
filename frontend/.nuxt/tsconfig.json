@@ -90,7 +90,7 @@
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/dev"
+        "./manifest/meta/4601039e-c5a5-41ec-ac6e-4840c1a7f53a.json"
       ],
       "#build": [
         "."
@@ -132,6 +132,7 @@
   ],
   "exclude": [
     "../node_modules",
+    "../../node_modules",
     "../node_modules/nuxt/node_modules",
     "../node_modules/vue3-carousel-nuxt/runtime/server",
     "../node_modules/@nuxt/devtools/runtime/server",
